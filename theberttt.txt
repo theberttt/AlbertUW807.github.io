@@ -1,10 +1,7 @@
-<span id="a">Albert@Ong</span>:<span id="b">~</span><span id="c">$</span> cd AlbertOng/<!-- laglaglaglaglaglag -->About_Me
-<span id="a">Albert@Ong</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->theberttt.txt<br/><br/>
+<span id="important">Albert@Ong</span>:<span id="pos">~</span><span id="temp">$</span> cd AlbertOng/<!-- laglaglaglaglaglag -->About_Me
+<span id="important">Albert@Ong</span>:<span id="pos">~</span><span id="temp">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->theberttt.txt<br/><br/>
 Greetings! <!-- sjkfhskjf -->
 
 Pleasure to meet you.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am <span id="important">Albert Ong</span>, a third year student at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, Canada, pursuing a Bachelor in Honours Mathematics, <span id="pos">Double Major in Statistics and Combinatorics & Optimization</span>.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p>During my first co-op at UWaterloo, I worked at <a href="https://www.veriday.com/">Veriday Inc.</a> as a <span id="b">Full-Stack Software Developer</span>.</p>
-<p>Last summer, I interned remotely at <a href="https://proofzeroinc.com/">Proof Zero Inc.</a> as a <span id="pos"> Machine Learning Software Developer</span>.</p>
-<p>Finally, I have just finished completed my internship at <a href="https://www.purolator.com/en">Purolator Inc.</a> as a <span id="pos">Front-End Developer</span>.</p> 
+<p>I am <span id="important">Albert Ong</span>, a third year student at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, Canada, pursuing a Bachelor in Honours Mathematics, <span id="pos">Double Major in Statistics and Combinatorics & Optimization</span>.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p>During my first co-op at UWaterloo, I worked at <a href="https://www.veriday.com/">Veriday Inc.</a> as a <span id="pos">Full-Stack Software Developer</span>.</p><p>Last summer, I interned remotely at <a href="https://proofzeroinc.com/">Proof Zero Inc.</a> as a <span id="pos"> Machine Learning Software Developer</span>.</p><p>Finally, I have just finished completed my internship at <a href="https://www.purolator.com/en">Purolator Inc.</a> as a <span id="pos">Front-End Developer</span>.</p> 
 
