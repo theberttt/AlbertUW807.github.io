@@ -8,4 +8,4 @@ Pleasure to meet you.<!-- bla -->
 <a href="https://github.com/theberttt/StarterHacks2020" target="_blank">StarterHacks 2020 Project: MovieConnect</a>
 <a href="https://github.com/theberttt/Red-Scouts" target="_blank">PCHacks 2019 Project: RedScouts</a>
 <a href="https://github.com/theberttt/MapSpeaks" target="_blank">Location-based Messaging App : MapSpeaks (In progress)</a>
-<!-- blabla--><p>Also, here is my <a href="https://www.linkedin.com/in/albertong807/" target="_blank">LinkedIn</a> if you are interested in checking out other cool things I did apart from those written on my <a href="https://github.com/theberttt/theberttt.github.io/blob/main/Albert_Ong_Resume.pdf">resume</a>.</p>
+<!-- blabla--><p>Also, here is my <a href="https://www.linkedin.com/in/albertong807/" target="_blank">LinkedIn</a> if you are interested in checking out other cool things I did apart from those written on my <a href="https://github.com/theberttt/theberttt.github.io/blob/main/Albert_Ong_Resume.pdf" target="_blank">resume</a>.</p>
